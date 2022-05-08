@@ -24,7 +24,7 @@
 # In[2]:
 
 import pandas as pd
-
+import time
 
 # ## Import TSV
 # 
@@ -63,6 +63,7 @@ def html_escape(text):
 
 import os
 for row, item in publications.iterrows():
+    print(row, ' ', item)
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
@@ -105,4 +106,4 @@ for row, item in publications.iterrows():
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
 
-
+time.sleep(20)

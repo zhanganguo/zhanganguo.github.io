@@ -1,15 +1,16 @@
 ---
-title: "Second-order information bottleneck based spiking neural networks for sEMG recognition"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-03
-venue: 'Information Sciences'
+date: 2009-10-01
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Anguo Zhang, Yuzhen Niu, Yueming Gao, Junyi Wu, and Zhipeng Gao, ¡°Second-order information bottleneck based spiking neural networks for sEMG recognition,¡± <i>Information Sciences</i>, vol. 585, pp. 543¨C558, Mar. 2022, doi: 10.1016/j.ins.2021.11.065.'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+
+<a href='http://academicpages.github.io/files/paper1.pdf'>Download paper here</a>
+
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Anguo Zhang, Yuzhen Niu, Yueming Gao, Junyi Wu, and Zhipeng Gao, ¡°Second-order information bottleneck based spiking neural networks for sEMG recognition,¡± <i>Information Sciences</i>, vol. 585, pp. 543¨C558, Mar. 2022, doi: 10.1016/j.ins.2021.11.065..
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
